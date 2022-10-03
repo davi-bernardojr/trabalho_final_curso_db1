@@ -1,0 +1,5 @@
+{
+"regras" : " as regras do servidor são:\n1 - Um robô não pode ferir um humano ou por omissão permitir que um humano sofra algum mal. \n2 - Um robô deve obedecer as ordens dos humanos, exceto quando tal ordem entre em conflito com a regra 1. \n3 - Um robô deve preservar a própria existência, exceto quando isto entra em conflito com a regra 1 e 2.",
+"piada" : " não estou afim.",
+"help" : " Você pode\n\n consultar o clima digitando\n bot clima nome_da_cidade ex:\n bot clima maringá\n\n consultar uma ação digitando\n bot acao nome_da_ação ex\n bot acao bbse3\n\n ou pedir uma piada digitando\n bot piada\n\n Você pode solicitar as regras ex:\nbot regras"
+}
